@@ -15,7 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let name = "shantaram"
         let middleName = "Bhaguji"
-        let lastname = "Kokate"
+        let lastname = "Kokate
+        let rolno  = "52"
     }
 
 
